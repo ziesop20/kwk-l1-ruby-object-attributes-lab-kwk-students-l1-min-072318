@@ -43,3 +43,4 @@ When you're done submit the lab with `learn submit`
 
 <p data-visibility='hidden'>KWK-L1 Ruby Object Attributes Lab</p>
 
+
